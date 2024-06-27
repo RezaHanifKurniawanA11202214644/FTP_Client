@@ -1,2 +1,2 @@
 # FTP_Client
-FTP_Client dengan JavaFX untuk GUI
+FTP_Client dengan JavaFX untuk bagian GUI
